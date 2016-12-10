@@ -1,0 +1,11 @@
+Z:\Documents\code\C#\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+Z:\Documents\code\C#\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+Z:\Documents\code\C#\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+Z:\Documents\code\C#\ChatClient\ChatClient\obj\Debug\ChatClient.ChatForm.resources
+Z:\Documents\code\C#\ChatClient\ChatClient\obj\Debug\ChatClient.login.resources
+Z:\Documents\code\C#\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+Z:\Documents\code\C#\ChatClient\ChatClient\obj\Debug\ChatClient.register.resources
+Z:\Documents\code\C#\ChatClient\ChatClient\obj\Debug\ChatClient.TopicForm.resources
+Z:\Documents\code\C#\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+Z:\Documents\code\C#\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+Z:\Documents\code\C#\ChatClient\ChatClient\obj\Debug\ChatClient.pdb

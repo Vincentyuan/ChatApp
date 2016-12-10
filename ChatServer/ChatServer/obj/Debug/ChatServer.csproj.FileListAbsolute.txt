@@ -1,0 +1,10 @@
+Z:\Documents\code\C#\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+Z:\Documents\code\C#\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+Z:\Documents\code\C#\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+Z:\Documents\code\C#\ChatServer\ChatServer\obj\Debug\ChatServer.MainServerForm.resources
+Z:\Documents\code\C#\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+Z:\Documents\code\C#\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.Cache
+Z:\Documents\code\C#\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+Z:\Documents\code\C#\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+Z:\Documents\code\C#\ChatServer\ChatServer\bin\Debug\System.Data.SQLite.dll
+Z:\Documents\code\C#\ChatServer\ChatServer\bin\Debug\System.Data.SQLite.pdb
